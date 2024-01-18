@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/chapter-1/robocon/"}
+{"dg-publish":true,"permalink":"/Chapter 1 - 了解视觉组/走进 Robocon 中的视觉处理/"}
 ---
 
 # Robocon 中的视觉处理
